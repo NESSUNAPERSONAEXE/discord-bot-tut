@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "prova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "╲⎝⧹ℕ𝔼𝕊𝕊𝕌ℕ𝔸ℙ𝔼ℝ𝕊𝕆ℕ𝔸.𝔼𝕏𝔼🙃⧸⎠╱#1617",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "enmap": "^5.8.2",
+    "fs": "0.0.1-security"
+  }
+}
